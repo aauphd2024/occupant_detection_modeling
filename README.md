@@ -1,2 +1,2 @@
 # occupant_detection_modeling
-Code, data and material for occupant detection modeling with in- and out-of-sample training and testing
+Code, data and material for occupant detection modeling using binary classification in Python 3.11/SPYDER 5.
