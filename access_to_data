@@ -1,0 +1,9 @@
+Please send an email to kahean@build.aau.dk if you want access to the code. It will be given based on request. 
+
+Available code: 
+- algorithm testing, both global and room-based models
+- feature testing with variance inflation factor, feature importance and performance testing
+- room-based nested cross-validation
+- global model nested cross-validation
+- training of the final model
+- application of final model
